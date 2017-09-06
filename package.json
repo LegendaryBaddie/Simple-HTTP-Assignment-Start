@@ -16,6 +16,9 @@
     "pretest": "eslint ./src --fix",
     "test": "echo \"tests complete\""
   },
+  "engines": {
+    "node": "8.4.0"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/LegendaryBaddie/Simple-HTTP-Assignment-Start.git"
